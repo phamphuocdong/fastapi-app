@@ -3,14 +3,17 @@
 1. Run FastApi backend
 
 from root folder:
+
 cd todo-backend
 
 run backend:
+
 uvicorn main:app --reload
 
 2. Run frontend React app
 
 Open another terminal, from root folder:
+
 cd todo-frontend
 npm start
 
